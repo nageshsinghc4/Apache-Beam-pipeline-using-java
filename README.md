@@ -1,1 +1,0 @@
-# ad-java-sample
